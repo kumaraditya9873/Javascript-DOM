@@ -14,3 +14,10 @@ console.log(value1);
 // ex
 
 second.className = "colors";
+
+// classList
+const third = document.getElementById("third");
+third.classList.add("colors");
+const value2 = third.classList;
+
+console.log(value2);
