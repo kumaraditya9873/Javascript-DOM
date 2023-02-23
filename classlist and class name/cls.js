@@ -9,7 +9,7 @@ const value1 = second.className;
 
 console.log(value1);
 
-// we can directly add the properties
+// we can directly add the existing css properties
 
 // ex
 
